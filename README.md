@@ -1,5 +1,3 @@
 # Hello, I am learning to use GITHUB
 
-
-Trying to connect to VS code
-Look I changed something
+In this repo, I would be uploading my projects and gamedev experiences.
