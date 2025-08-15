@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# Projects", "C# Projects", "{B9558AED-251C-8337-F34B-AE78F04F0FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG", "C# Projects\RPG\RPG.csproj", "{6BAC85B2-6439-3BCC-1032-1B81E05A892B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BAC85B2-6439-3BCC-1032-1B81E05A892B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAC85B2-6439-3BCC-1032-1B81E05A892B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAC85B2-6439-3BCC-1032-1B81E05A892B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAC85B2-6439-3BCC-1032-1B81E05A892B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BAC85B2-6439-3BCC-1032-1B81E05A892B} = {B9558AED-251C-8337-F34B-AE78F04F0FA2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4394B53-7774-4488-9B60-A8D8D3EB1195}
+	EndGlobalSection
+EndGlobal
